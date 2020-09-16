@@ -32,6 +32,8 @@ export const SidebarContainer = styled.div`
     margin: 7px 0;
 
     img {
+      width: 53px;
+      height: 53px;
       border-radius: 50%;
       object-fit: cover;
     }

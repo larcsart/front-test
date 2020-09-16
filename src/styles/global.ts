@@ -1,13 +1,11 @@
 import { createGlobalStyle } from "styled-components";
 
 export default createGlobalStyle`
-  @import url('https://fonts.googleapis.com/css2?family=Baloo+Tammudu+2:wght@400;500;600;700&display=swap');
-
   * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Baloo Tammudu 2', cursive;
+    font-family: 'Baloo Tammudu 2', cursive !important;
     line-height: 16px !important;
   }
 
@@ -29,6 +27,7 @@ export default createGlobalStyle`
   }
 
   input {
+    width: 400px;
     font-size: 18px;
     padding: 3px 40px;
     border: none;
