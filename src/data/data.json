@@ -1,0 +1,35 @@
+{
+  "active_user": {
+    "name": "Thomas Jackson",
+    "profile_picture": "https://randomuser.me/api/portraits/men/47.jpg"
+  },
+  "users_online": {
+    "total": 129,
+    "users": [
+      {
+        "name": "Bob Barret",
+        "initials": "BB",
+        "picture": "https://randomuser.me/api/portraits/men/57.jpg"
+      },
+      {
+        "name": "Tristan Gardner",
+        "initials": "TG",
+        "picture": "https://randomuser.me/api/portraits/men/38.jpg"
+      },
+      {
+        "name": "Genesis Craig",
+        "initials": "GC",
+        "picture": "https://randomuser.me/api/portraits/women/66.jpg"
+      },
+      {
+        "name": "Ann Burns",
+        "initials": "AB"
+      },
+      {
+        "name": "Jo Lowe",
+        "initials": "JL",
+        "picture": "https://randomuser.me/api/portraits/women/21.jpg"
+      }
+    ]
+  }
+}
